@@ -1,7 +1,7 @@
 ﻿// Geant4-3DCRT.cpp : Defines the entry point for the application.
 //
 
-#include "Geant4-3DCRT.h"
+#include "Geant4-3DCRT.hh"
 
 using namespace std;
 
